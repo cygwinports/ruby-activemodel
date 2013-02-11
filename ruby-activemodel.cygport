@@ -1,0 +1,10 @@
+inherit rubygem
+
+NAME="ruby-activemodel"
+VERSION=3.2.11
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby Active Model extension"
+DESCRIPTION="A toolkit for building modeling frameworks like Active Record and
+Active Resource. Rich support for attributes, callbacks, validations, observers,
+serialization, internationalization, and testing."
